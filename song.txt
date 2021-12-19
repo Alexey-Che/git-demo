@@ -3,6 +3,9 @@ standing strong
 and free
 
 add four text
+<<<<<<< HEAD
 ----------------------------------
 remove
 
+=======
+>>>>>>> aafed284eba51815177c5778d3391d3626a916af
