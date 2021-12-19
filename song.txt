@@ -3,3 +3,6 @@ standing strong
 and free
 
 add four text
+----------------------------------
+remove
+
