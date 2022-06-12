@@ -15,4 +15,3 @@ also worked and again
 add branch
 and another one
 and one
-bad commit
