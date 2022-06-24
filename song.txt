@@ -18,3 +18,8 @@ and one
 bad commit
 one
 ten
+new branch
+test re
+two branch commit
+test
+another
