@@ -18,3 +18,5 @@ and one
 bad commit
 one
 ten
+continue main
+test main message
