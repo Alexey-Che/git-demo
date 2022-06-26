@@ -20,3 +20,4 @@ one
 ten
 continue main
 test main message
+commit
