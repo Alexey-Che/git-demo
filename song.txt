@@ -21,3 +21,4 @@ ten
 continue main
 test main message
 commit
+new branch new
