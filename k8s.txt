@@ -1,2 +1,3 @@
 k8s settings
 more settings
+deploy
